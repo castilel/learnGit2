@@ -8,4 +8,10 @@ public class TheOne{
 	}
 }
 //create a new brand named div
+<<<<<<< HEAD
 //branch master changed here 
+=======
+//brand test changed here
+>>>>>>> test
+
+//merge
